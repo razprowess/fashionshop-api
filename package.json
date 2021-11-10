@@ -4,14 +4,19 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "start": "index",
+    "start": "node index",
     "dev": "nodemon index"
   },
   "author": "moonsat",
   "license": "ISC",
   "devDependencies": {
     "cors": "^2.8.5",
+    "express-jwt": "^6.1.0",
     "jsonwebtoken": "^8.5.1",
+    "nodemon": "^2.0.15",
     "sequelize": "^6.9.0"
+  },
+  "dependencies": {
+    "express": "^4.17.1"
   }
 }
