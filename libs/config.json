@@ -1,0 +1,11 @@
+{
+    "secret": "fkfjdk1jeu394u3ok45948548dkfdkmkmfd-=1-o-3o95kmdfiyr8e7390y0ruywgkdfdjfkkp[-i3j4uiyeehroi0495i4;l,fdlfue8r450-",
+    "appname": "Fashionshop",
+
+    "databasesetting": {
+        "host": "localhost",
+        "database": "fashionshop",
+        "username": "root",
+        "password": ""
+    }
+}
